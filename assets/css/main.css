@@ -390,7 +390,7 @@ input, select, textarea {
 		/* text box */
 			#answerText {
 				font-family: "Zen Maru Gothic", inherit;
-				width: 100%;
+				width: 80%;
 				border: 0;
 				border-bottom: 2px solid #2d2e30;
 				outline: 0;
